@@ -1,0 +1,99 @@
+* {
+	font-family: "Lucida Console", monospace;
+	font-size: 15px;
+	color: black;
+}
+
+html {
+	scroll-behavior: smooth;
+	
+
+}
+
+body {
+	text-align: center;
+	background-color: #FF0066;
+
+}
+
+h4,h2,h3 {
+	letter-spacing: 5px;
+}
+
+h2 {
+	font-family: 'Copperplate', fantasy;
+}
+
+#aboutme {
+	color: #AA00FF ;
+	background-color: #FFEBEE;
+	padding: 1rem;
+	margin: 1rem;
+	text-align: center;
+
+}
+
+#whatido {
+	color: #AA00FF ;
+	background-color: #FFEBEE;
+	padding: 1rem;
+	margin: 1rem;
+	text-align: center;
+}
+
+#myproject{
+	color: #AA00FF ;
+	background-color: #FFEBEE;
+	padding: 1rem;
+	margin: 1rem;
+	text-align: center;
+}
+
+#name {
+	 font-family: 'Brush Script MT', cursive;
+}
+
+#navbar {
+  margin: 5px;
+  padding: 5px;
+  overflow: hidden;
+  background-color: #dddddd;
+
+}
+
+#end {
+	background-color: #AA00FF;
+	color: whitesmoke;
+	padding: 5px;
+	margin: 5px;
+}
+
+.navbar-nav a {
+  display: inline-block;
+  padding: 2px;
+  margin: 2px;
+  text-align: center;
+  font-family: 'Lucida Console', monospace;
+
+}
+
+.main {
+	background-color: #F06292;
+}
+
+
+
+
+
+
+/*Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) 
+
+Medium devices (tablets, 768px and up)
+@media (min-width: 768px) 
+
+Large devices (desktops, 992px and up)
+@media (min-width: 992px) }
+
+Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) */
