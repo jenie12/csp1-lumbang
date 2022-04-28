@@ -24,6 +24,18 @@ h2 {
 	font-family: 'Copperplate', fantasy;
 }
 
+#tools{
+
+	color: #AA00FF ;
+	background-color: #FFEBEE;
+	padding: 1rem;
+	margin: 1rem;
+	text-align: center;
+
+}
+
+
+
 #aboutme {
 	color: #AA00FF ;
 	background-color: #FFEBEE;
@@ -67,6 +79,7 @@ h2 {
 	padding: 5px;
 	margin: 5px;
 }
+
 
 .navbar-nav a {
   display: inline-block;
